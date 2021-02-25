@@ -1,6 +1,6 @@
 # Price-Chex-Privacy-Policy
 
-This privacy policy serves as the privacy policy for all apps published on Google Play by the EpicAppz team:
+This privacy policy serves as the privacy policy for many apps published on Google Play by the EpicAppz team, unless a different privacy policy is explicitly provided:
 https://play.google.com/store/apps/developer?id=Epic+Appz
 
 This policy is subject to change with any update to the app.
